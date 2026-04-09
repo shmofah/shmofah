@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sheldon Amofah</h1>
 <h3 align="center">I'm a Master's Student interested in neural engineering, brain-computer interfaces, and sensorimotor interaction</h3>
 
-- 👨🏿‍💻 I’m currently learning **Biomedical Engineering at Carnegie Mellon University**
+- 👨🏿‍💻 I’m currently studying **Biomedical Engineering at Carnegie Mellon University**
 
 - 📫 How to reach me **sheldonamofah@gmail.com**
 
