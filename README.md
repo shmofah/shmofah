@@ -1,11 +1,13 @@
-<h1 align="center">Hi 👋, I'm Sheldon Amofah</h1>
+<h1 align="center">Hi 👋🏿, I'm Sheldon Amofah</h1>
 <h3 align="center">I'm a Master's Student interested in neural engineering, brain-computer interfaces, and sensorimotor interaction</h3>
 
 - 👨🏿‍💻 I’m currently studying **Biomedical Engineering at Carnegie Mellon University**
 
 - 📫 How to reach me **sheldonamofah@gmail.com**
+  
+- 📝 Check out my [resume](https://drive.google.com/file/d/1UhcsRuvXB27n6ouNLnfQckx6X3jgpnR0/view?usp=drive_link)!
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1UhcsRuvXB27n6ouNLnfQckx6X3jgpnR0/view?usp=drive_link)
+- 🔗 Check out my [website](https://sites.google.com/view/sheldon-anthonyamofah?usp=sharing)!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
